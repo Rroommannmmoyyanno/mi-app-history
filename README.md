@@ -7,7 +7,9 @@ A medida que el proyecto crezca, se expandirá para cubrir una gama más amplia 
 
 ## Propósito del Proyecto
 
-Este proyecto busca ser una plataforma educativa dinámica y accesible para estudiantes, académicos y cualquier persona interesada en la historia, específicamente en la figura de **José de San Martín** y su rol en la independencia de los países del continente. La plataforma está orientada a la **interactividad**, lo que permite que los usuarios puedan **explorar eventos históricos**, entender cómo se interrelacionan y visualizar sus conexiones.
+Este proyecto busca ser una plataforma educativa dinámica y accesible para estudiantes, académicos y cualquier persona interesada en la historia. 
+La plataforma está orientada a la 
+**interactividad**, lo que permite que los usuarios puedan **explorar eventos históricos**, entender cómo se interrelacionan y visualizar sus conexiones.
 
 Además, se pretende que esta herramienta sea útil no solo para Argentina, sino para estudiantes y profesionales en todo el mundo, promoviendo la **educación histórica global**.
 
